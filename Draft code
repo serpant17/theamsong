@@ -1,0 +1,30 @@
+$ pip3 install playsound
+from playsound import playsound
+
+def search():         
+    print ("searching for devices")
+    devices = bluetooth.discover_devices(duration=20, lookup_names = True)
+    return devices 
+    
+if morgans phone in devices
+    mp3File = ()
+    # Play the mp3 file
+    playsound(mp3File)
+else:
+  pass
+
+if dads phone in devices:
+  mp3File = ()
+  playsound(mp3File)
+else:
+  pass
+
+if moms phone in devices:
+  mp3File = ()
+  playsound(mp3File)
+else:
+  pass
+
+if bellas phone in devices:
+  mp3File = ()
+  playsound(mp3File)
